@@ -36,7 +36,7 @@ const cabins: CabinType[] = [
   {
     id: "imperial",
     name: "Императорский",
-    price: 750000,
+    price: 160000,
     features: [
       "Люкс с панорамными окнами",
       "Личный дворецкий",

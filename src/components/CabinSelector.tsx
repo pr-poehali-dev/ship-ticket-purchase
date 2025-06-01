@@ -24,7 +24,7 @@ const cabins: CabinType[] = [
   {
     id: "business",
     name: "Бизнес",
-    price: 350000,
+    price: 80000,
     popular: true,
     features: [
       "Увеличенная каюта",

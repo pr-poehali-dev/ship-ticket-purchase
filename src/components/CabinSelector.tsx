@@ -18,7 +18,7 @@ const cabins: CabinType[] = [
   {
     id: "economy",
     name: "Эконом",
-    price: 150000,
+    price: 10000,
     features: ["Стандартная каюта", "Общий зал отдыха", "Базовое питание"],
   },
   {
